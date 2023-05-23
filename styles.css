@@ -1,0 +1,44 @@
+aside {
+  float: right;
+  height: 500px;
+  width: 300px;
+}
+
+article {
+  margin: 10px 0;
+  max-width: 800px;
+  margin-bottom: 88px;
+}
+
+main {
+  width: 100%;
+  margin: 0 auto;
+  padding: 3em;
+  max-width: 1200px;
+}
+
+.aside-box {
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+.form {
+  margin-top: 100px;
+}
+
+.custom-font {
+  font-family: "Arial", sans-serif;
+}
+
+* {
+  font-family: "Open Sans", sans-serif;
+}
